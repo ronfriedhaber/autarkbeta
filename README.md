@@ -1,2 +1,2 @@
 # Autark
-A data processing library.
+A computational engine.
